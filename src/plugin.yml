@@ -1,0 +1,10 @@
+name: LMine
+main: me.devleo.mymine.Main
+version: 0.6 BETA
+author: L Devs
+website: ldevs.com.br
+depend: [WorldEdit]
+
+commands:
+  mmine:
+  mine:
